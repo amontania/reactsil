@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/placeregister/static/css/main.2080e04a.css",
+    "main.js": "/placeregister/static/js/main.8335a56f.js",
+    "static/media/sillogop.png": "/placeregister/static/media/sillogop.04de422d9fcfc7f772f1.png",
+    "index.html": "/placeregister/index.html",
+    "main.2080e04a.css.map": "/placeregister/static/css/main.2080e04a.css.map",
+    "main.8335a56f.js.map": "/placeregister/static/js/main.8335a56f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2080e04a.css",
+    "static/js/main.8335a56f.js"
+  ]
+}

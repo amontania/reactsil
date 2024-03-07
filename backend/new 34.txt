@@ -1,0 +1,5 @@
+https://www.google.com/maps/place/-25.237093397538306,-57.467027078705854
+
+ accept={{'image/*': [ ],'image/heic': []}}
+ 
+ example of dropzone using wrapper component for the hook. And accept only image
